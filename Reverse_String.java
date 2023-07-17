@@ -3,7 +3,7 @@
 
 
 import java.util.*;
-class Reverse
+class Reverse_String
 {
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
