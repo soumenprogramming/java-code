@@ -1,3 +1,7 @@
+
+//Reversing of a String in java
+
+
 import java.util.*;
 class Reverse
 {
@@ -12,3 +16,7 @@ class Reverse
 
     }
 }
+//Reversing of a String in java
+
+
+//Reversing of a Number
