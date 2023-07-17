@@ -1,3 +1,4 @@
+//Reversing of a number
 import java.util.*;
 
 class Reverse_number {
@@ -16,3 +17,4 @@ class Reverse_number {
         System.out.println("The reversed number is " + rev);
     }
 }
+//Reversing of a number in java
