@@ -14,7 +14,7 @@ public class Even_Oddsum {
             }
         }
 
-        System.out.println(oddsum);
-        System.out.println(evensum);
+        System.out.println("oddsum is" +oddsum);
+        System.out.println("evensum is" +evensum);
     }
 }
