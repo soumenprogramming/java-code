@@ -14,7 +14,7 @@ public class Searching {
      for(int l=0;l<a.length;l++){
         if(a[l]==t){
             System.out.println("desired number is found.");
-            return;
+            return;/////In this portion we can use also "System.exit(0);"
         }
     }
         
